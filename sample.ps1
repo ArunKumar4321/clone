@@ -1,4 +1,4 @@
-a=1
+a=3
 b=1
 c=1
 print(a+b+c)
